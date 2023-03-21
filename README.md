@@ -1,5 +1,5 @@
 <h1 align="center"> Introduction to TensorFlow</h1>
-Curso **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** disponibilizado pela DeepLearning.AI e ministrado através do Coursera
+Curso <b>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</b> disponibilizado pela DeepLearning.AI e ministrado através do Coursera
  
 ## Dependências, Linguagens e Bibliotecas
 - Jupyter Notebook;
@@ -7,5 +7,5 @@ Curso **Introduction to TensorFlow for Artificial Intelligence, Machine Learning
 - TensorFlow;
 - Keras
 
-## Licença
-- MIT
+####  Verificação
+- https://coursera.org/verify/PUDKPYN5FT3G
